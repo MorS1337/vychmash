@@ -1,0 +1,26 @@
+распределение,кодирование,параметры,среднее битов,compression_vs_fixed,note
+Geom p=0.10,Elias-γ,-,5.6953,2.8093340122557198,
+Geom p=0.10,Elias-δ,-,6.09811,2.623763756311382,
+Geom p=0.10,Fibonacci,-,5.27689,3.03208897665102,
+Geom p=0.10,Fixed,16b,16.0,1.0,
+Geom p=0.10,Rice,k=3,4.75477,3.3650418421921566,best Rice
+Geom p=0.20,Elias-γ,-,4.12142,3.882157120604064,
+Geom p=0.20,Elias-δ,-,4.58181,3.492069727902292,
+Geom p=0.20,Fibonacci,-,4.14267,3.8622434323757386,
+Geom p=0.20,Fixed,16b,16.0,1.0,
+Geom p=0.20,Rice,k=2,3.69426,4.33104329419153,best Rice
+Heavy (Pareto α=1.2),Elias-γ,-,2.54584,6.2847625930930455,
+Heavy (Pareto α=1.2),Elias-δ,-,2.81432,5.685209926376531,
+Heavy (Pareto α=1.2),Fibonacci,-,3.03645,5.269311202226284,
+Heavy (Pareto α=1.2),Fixed,16b,16.0,1.0,
+Heavy (Pareto α=1.2),Rice,k=2,3.84987,4.155984487787899,best Rice
+Mixed small+spikes,Elias-γ,-,7.05764,2.2670467748425818,
+Mixed small+spikes,Elias-δ,-,6.9502,2.3020920261287445,
+Mixed small+spikes,Fibonacci,-,6.23106,2.5677814047690117,
+Mixed small+spikes,Fixed,16b,16.0,1.0,
+Mixed small+spikes,Rice,k=8,10.17583,1.5723533117200268,best Rice
+Uniform 1..100,Elias-γ,-,10.59926,1.5095393451995707,
+Uniform 1..100,Elias-δ,-,9.64053,1.6596597904886972,
+Uniform 1..100,Fibonacci,-,8.79044,1.8201591729196718,
+Uniform 1..100,Fixed,16b,16.0,1.0,
+Uniform 1..100,Rice,k=5,7.07939,2.2600817302055685,best Rice
